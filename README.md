@@ -5,3 +5,4 @@
 - Cumulants
 - Point Estimate Method
 - Monte Carlo
+- Latin Hypercube sampling
