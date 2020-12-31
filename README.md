@@ -4,3 +4,4 @@
 
 - Cumulants
 - Point Estimate Method
+- Monte Carlo
